@@ -1,0 +1,11 @@
+
+> questup-backend@0.1.0 start
+> node server.js
+
+API routes yuklendi
+QuestUp backend running
+Mode:    DEMO_MODE
+API Health:
+Local:   http://localhost:5000/api/v1/health
+Network: http://192.168.0.10:5000/api/v1/health
+Bind:    http://0.0.0.0:5000
